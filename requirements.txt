@@ -2,4 +2,3 @@ pandas
 requests
 BeautifulSoup4
 matplotlib
-seaborn
