@@ -29,12 +29,12 @@ Utilizamos o matplotlib para criar gráficos interativos e visualizações que a
 
 ## Alguns dos dados observados foram:
 
-![graph](images\data1.png "Participações Mr Olympia")
-![graph](images\data2.png "Posições de Ronne Coleman")
-![graph](images\data3.png "Distribuição de Vitórias")
-![graph](images\data4.png "Dispersão de peso x altura")
-![graph](images\data5.png "Tendência de crecimento de prêmio")
-![graph](images\data6.png "Países sediaram evento")
+![graph](images/data1.png "Participações Mr Olympia")
+![graph](images/data2.png "Posições de Ronne Coleman")
+![graph](images/data3.png "Distribuição de Vitórias")
+![graph](images/data4.png "Dispersão de peso x altura")
+![graph](images/data5.png "Tendência de crecimento de prêmio")
+![graph](images/data6.png "Países sediaram evento")
 
 ## Conclusão
 O projeto MrOlympia-DataAnalysis permitiu obter insights interessantes sobre os vencedores e os padrões do Mr. Olympia ao longo dos anos. Algumas das descobertas incluem a evolução do valor dos prêmios, a performance de competidores notáveis como Ronnie Coleman, e a distribuição dos eventos por país.
