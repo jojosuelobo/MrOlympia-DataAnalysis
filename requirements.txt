@@ -2,3 +2,4 @@ pandas
 requests
 BeautifulSoup4
 matplotlib
+squarify
